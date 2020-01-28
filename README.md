@@ -1,2 +1,0 @@
-# ReactClock
-Created with CodeSandbox
